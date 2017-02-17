@@ -1,0 +1,7 @@
+; MFCActiveX.def: объ€вл€ет параметры модул€.
+
+EXPORTS
+	DllCanUnloadNow     PRIVATE
+	DllGetClassObject   PRIVATE
+	DllRegisterServer   PRIVATE
+	DllUnregisterServer PRIVATE
