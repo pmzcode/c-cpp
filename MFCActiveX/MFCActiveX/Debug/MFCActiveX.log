@@ -1,3 +1,0 @@
-﻿  MFCActiveXCtrl.cpp
-c:\users\msi\documents\visual studio 2015\projects\mfcactivex\mfcactivex\mfcactivexctrl.cpp(157): warning C4244: return: преобразование "double" в "LONG", возможна потеря данных
-  MFCActiveX.vcxproj -> C:\Users\MSI\Documents\Visual Studio 2015\Projects\MFCActiveX\Debug\MFCActiveX.ocx
