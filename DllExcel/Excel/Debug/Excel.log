@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Excel.cpp
+     Создается библиотека c:\users\msi\documents\visual studio 2015\Projects\Excel\Debug\Excel.lib и объект c:\users\msi\documents\visual studio 2015\Projects\Excel\Debug\Excel.exp
+  Excel.vcxproj -> c:\users\msi\documents\visual studio 2015\Projects\Excel\Debug\Excel.dll
