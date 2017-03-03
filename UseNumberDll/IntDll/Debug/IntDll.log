@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  IntDll.cpp
+     Создается библиотека C:\Users\MSI\Documents\Visual Studio 2015\Projects\ClientDll\Debug\IntDll.lib и объект C:\Users\MSI\Documents\Visual Studio 2015\Projects\ClientDll\Debug\IntDll.exp
+  IntDll.vcxproj -> C:\Users\MSI\Documents\Visual Studio 2015\Projects\ClientDll\Debug\IntDll.dll
