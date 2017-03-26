@@ -1,0 +1,5 @@
+﻿  ReadingImages.cpp
+c:\users\msi\documents\visual studio 2015\projects\readingimages\readingimages\readingimages.cpp(163): warning C4101: hdcMem2: неиспользованная локальная переменная
+c:\users\msi\documents\visual studio 2015\projects\readingimages\readingimages\readingimages.cpp(159): warning C4101: hdc3: неиспользованная локальная переменная
+c:\users\msi\documents\visual studio 2015\projects\readingimages\readingimages\readingimages.cpp(159): warning C4101: hdc2: неиспользованная локальная переменная
+  ReadingImages.vcxproj -> c:\users\msi\documents\visual studio 2015\Projects\ReadingImages\Debug\ReadingImages.exe
