@@ -1,0 +1,4 @@
+﻿  Paint.cpp
+c:\users\msi\documents\visual studio 2015\projects\paint\paint\paint.cpp(67): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\msi\documents\visual studio 2015\projects\paint\paint\paint.cpp(75): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Paint.vcxproj -> c:\users\msi\documents\visual studio 2015\Projects\Paint\Debug\Paint.exe
